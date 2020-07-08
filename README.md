@@ -103,6 +103,7 @@ Pandas and Sqlite are used to load the data where 30% of total questions are dup
  </ol>
   
  <h3> 2.1.6 Model Performance </h3>
+ 
  1. TF-IDF with 1 million datapoints
 
   | Model | Vectorizer | Micro F1 Score | Hamming Loss|
